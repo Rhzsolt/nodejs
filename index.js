@@ -26,7 +26,7 @@ const requestListener =function (req, res) {
 
   }
   
-console.log(res.status)
+
 }
 
 
